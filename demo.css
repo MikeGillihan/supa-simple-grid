@@ -1,0 +1,37 @@
+html {
+	color: #222;
+	font-family: "Helvetica Neue", sans-serif;
+	text-align: center;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+* {	transition: all 0.4s linear; }
+
+h2 { margin-top: 40px; }
+
+.col {
+	vertical-align: middle;
+	background-color: dodgerblue;
+	line-height: 4;
+}
+.col:nth-of-type(even) { background: turquoise; }
+
+.row .row .col {
+	background: #d5d5d5;
+}
+.row .row .col:nth-of-type(even) {
+	background: #999;
+}
+
+@media (min-width: 700px) {
+	/* Optional Column Width Classes */
+	.one-half { width: 50%; }
+	.one-third { width: 33.333333%; }
+	.two-thirds { width: 66.666666%; }
+	.one-fourth { width: 25%; }
+	.three-fourths { width: 75%; }
+}

@@ -1,6 +1,6 @@
 $pad: 20px;
 
-.col { margin: 0 $pad $pad; }
+.row { margin-bottom: $pad; }
 
 @media (min-width: 700px) {
   .grid {
@@ -14,7 +14,6 @@ $pad: 20px;
     width: 100%;
     display: table;
     table-layout: fixed;
-    margin-bottom: $pad;
 
     .row {
       margin-bottom: 0;

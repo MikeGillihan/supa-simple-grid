@@ -1,5 +1,5 @@
 # Supa Simple Grid
-Pretty much just a clone of Chris Nager's amazing [Ungrid](http://chrisnager.github.io/ungrid) with a bit of extra stuff I use often. 100% credit and kudos to Chris.
+Pretty much just a clone of Chris Nager's amazing [Ungrid](http://chrisnager.github.io/ungrid) with a bit of extra stuff I use often.
 
 ## Installation
 Copy and paste the contents of grid.css into your css file.

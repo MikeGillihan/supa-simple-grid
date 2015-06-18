@@ -1,0 +1,26 @@
+$pad: 20px;
+
+.col { margin: 0 $pad $pad; }
+
+@media (min-width: 700px) {
+  .grid {
+    margin-right: -$pad;
+    margin-left: -$pad;
+
+    .row { border-spacing: $pad 0; }
+  }
+
+  .row {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    margin-bottom: $pad;
+
+    .row {
+      margin-bottom: 0;
+      border-spacing: 0;
+    }
+  }
+
+  .col { display: table-cell; }
+}

@@ -1,0 +1,1 @@
+.col{margin:0 20px 20px}@media (min-width: 700px){.grid{margin-right:-20px;margin-left:-20px}.grid .row{border-spacing:20px 0}.row{width:100%;display:table;table-layout:fixed;margin-bottom:20px}.row .row{margin-bottom:0;border-spacing:0}.col{display:table-cell}}

@@ -2,7 +2,7 @@
 A clone of Chris Nager's amazing [Ungrid](http://chrisnager.github.io/ungrid) with a bit of extra stuff I use often.
 
 ## Credit
-100% credit and kudos to Chris.
+100% credit and kudos to Chris Nager.
 
 ## Installation
 Copy and paste the contents of grid.css or grid.min.css into your css file.

@@ -17,7 +17,7 @@ To use, simply put as many .cols as you wish in your .rows and the .cols will au
 </div>
 ```
 
-Want gutters? Add a .grid wrapper to you around your rows.
+Want gutters? Add a .grid wrapper around your rows.
 ```html
 <div class="grid">
 	<div class="row">
@@ -74,12 +74,12 @@ Nested columns? Sure, it's like a throwback to nested tables.
 </div>
 ```
 
-Ungrid - Copyright (c) 2014-2015 Chris Nager
 
 ##License
 The MIT License (MIT)
 
 Copyright (c) 2015 Michael Gillihan
+Ungrid - Copyright (c) 2014-2015 Chris Nager
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
